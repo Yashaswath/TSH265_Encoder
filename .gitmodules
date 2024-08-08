@@ -1,0 +1,12 @@
+[submodule "AccMPEG"]
+	path = AccMPEG
+	url = https://github.com/KuntaiDu/AccMPEG.git
+	branch = MLSys
+[submodule "myh264"]
+	path = myh264
+	url = https://github.com/Alex-q-z/myh264.git
+	branch = AccMPEG
+[submodule "kvazaar"]
+	path = kvazaar
+	url = https://github.com/ultravideo/kvazaar.git
+	branch = master
