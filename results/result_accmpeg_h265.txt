@@ -1,0 +1,121 @@
+Mean Metrics:
+Accuracy: [0.93645464]
+F1 Score: [0.62504168]
+Precision: [0.65225691]
+Recall: [0.61979008]
+Standard Deviation of Accuracy: [0.0341457]
+Standard Deviation of F1 Score: [0.30586426]
+Standard Deviation of Precision: [0.31384367]
+Standard Deviation of Recall: [0.30097643]
+
+Detailed Metrics:
+Folder: 265
+  Video: /mnt/newdrive/artifact/265/dashcamcropped_1
+    Accuracy: 0.9934670215935664
+    F1 Score: 0.035474646847986506
+    Precision: 0.04090909090909091
+    Recall: 0.03210154428904429
+    Standard Deviation of Accuracy: 0.019961771938479426
+    Standard Deviation of F1 Score: 0.17177322079934249
+    Standard Deviation of Precision: 0.19633347130818746
+    Standard Deviation of Recall: 0.15823194446759187
+  Video: /mnt/newdrive/artifact/265/dashcamcropped_2
+    Accuracy: 0.8778007258064195
+    F1 Score: 0.8907585448927745
+    Precision: 0.9317211076025381
+    Recall: 0.8589101502269685
+    Standard Deviation of Accuracy: 0.053947318602064025
+    Standard Deviation of F1 Score: 0.05040769891480628
+    Standard Deviation of Precision: 0.044452979611305024
+    Standard Deviation of Recall: 0.08501230637932669
+  Video: /mnt/newdrive/artifact/265/dashcamcropped_3
+    Accuracy: 0.9466764283624974
+    F1 Score: 0.6394603946232228
+    Precision: 0.6754557963365495
+    Recall: 0.6605012601643112
+    Standard Deviation of Accuracy: 0.04690774605824628
+    Standard Deviation of F1 Score: 0.3398359650862712
+    Standard Deviation of Precision: 0.3601968191277108
+    Standard Deviation of Recall: 0.3583165121715716
+  Video: /mnt/newdrive/artifact/265/dashcamcropped_4
+    Accuracy: 0.9579102543131035
+    F1 Score: 0.48884837891517224
+    Precision: 0.5115623078699665
+    Recall: 0.4996594295351184
+    Standard Deviation of Accuracy: 0.04260041074659021
+    Standard Deviation of F1 Score: 0.3985373801104551
+    Standard Deviation of Precision: 0.4139469727157192
+    Standard Deviation of Recall: 0.4151481540991205
+  Video: /mnt/newdrive/artifact/265/dashcamcropped_5
+    Accuracy: 0.9178059905194009
+    F1 Score: 0.9297163017597717
+    Precision: 0.933409854436641
+    Recall: 0.9284539734692203
+    Standard Deviation of Accuracy: 0.03347691534862294
+    Standard Deviation of F1 Score: 0.029364630393158897
+    Standard Deviation of Precision: 0.046484303240702664
+    Standard Deviation of Recall: 0.041769208654796774
+  Video: /mnt/newdrive/artifact/265/dashcamcropped_6
+    Accuracy: 0.9172408285649082
+    F1 Score: 0.8777697517591866
+    Precision: 0.9368927058718978
+    Recall: 0.8437963722485994
+    Standard Deviation of Accuracy: 0.045107739666879615
+    Standard Deviation of F1 Score: 0.09758837919271231
+    Standard Deviation of Precision: 0.08087466267327059
+    Standard Deviation of Recall: 0.14178291021577394
+  Video: /mnt/newdrive/artifact/265/dashcamcropped_7
+    Accuracy: 0.9571211501022968
+    F1 Score: 0.6165973937359295
+    Precision: 0.6217613819524241
+    Recall: 0.6405279947461913
+    Standard Deviation of Accuracy: 0.04795274164315548
+    Standard Deviation of F1 Score: 0.38754005543904824
+    Standard Deviation of Precision: 0.3940816205928169
+    Standard Deviation of Recall: 0.40275776698765225
+  Video: /mnt/newdrive/artifact/265/driving_0
+    Accuracy: 0.8930474800894219
+    F1 Score: 0.8922577351818177
+    Precision: 0.9188458631070929
+    Recall: 0.8753186167361423
+    Standard Deviation of Accuracy: 0.04196098896292557
+    Standard Deviation of F1 Score: 0.04338102627092873
+    Standard Deviation of Precision: 0.06277802798578817
+    Standard Deviation of Recall: 0.08018772041933935
+  Video: /mnt/newdrive/artifact/265/driving_1
+    Accuracy: 0.9322285968265092
+    F1 Score: 0.6819224069837354
+    Precision: 0.7220018611383229
+    Recall: 0.6844364865122081
+    Standard Deviation of Accuracy: 0.04222428585309752
+    Standard Deviation of F1 Score: 0.3341377332116633
+    Standard Deviation of Precision: 0.353739043673544
+    Standard Deviation of Recall: 0.3433787472940906
+  Video: /mnt/newdrive/artifact/265/driving_2
+    Accuracy: 0.9290706947311215
+    F1 Score: 0.5314158393540911
+    Precision: 0.604612596233461
+    Recall: 0.5038355881124255
+    Standard Deviation of Accuracy: 0.06918201425954777
+    Standard Deviation of F1 Score: 0.395230387844227
+    Standard Deviation of Precision: 0.4322906561507238
+    Standard Deviation of Recall: 0.39020755375963256
+  Video: /mnt/newdrive/artifact/265/driving_3
+    Accuracy: 0.9945942378328743
+    F1 Score: 0.016666666666666666
+    Precision: 0.0175
+    Recall: 0.016071428571428573
+    Standard Deviation of Accuracy: 0.011372259284507096
+    Standard Deviation of F1 Score: 0.11055415967851331
+    Standard Deviation of Precision: 0.1145007277997248
+    Standard Deviation of Recall: 0.10811562373328887
+  Video: /mnt/newdrive/artifact/265/driving_4
+    Accuracy: 0.920492219264192
+    F1 Score: 0.8996120836026474
+    Precision: 0.9124103723469212
+    Recall: 0.8938681620248302
+    Standard Deviation of Accuracy: 0.036835881273009886
+    Standard Deviation of F1 Score: 0.10557436330242179
+    Standard Deviation of Precision: 0.10668485615168165
+    Standard Deviation of Recall: 0.1244934442102176
+

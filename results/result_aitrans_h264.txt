@@ -1,0 +1,139 @@
+Mean Metrics:
+Accuracy: [0.89081345]
+F1 Score: [0.8952961]
+Precision: [0.93130438]
+Recall: [0.87192468]
+Standard Deviation of Accuracy: [0.02750004]
+Standard Deviation of F1 Score: [0.04141486]
+Standard Deviation of Precision: [0.0543952]
+Standard Deviation of Recall: [0.0418458]
+
+Detailed Metrics:
+Folder: sir_video
+  Video: /mnt/newdrive/sir_video/driving_7
+    Accuracy: 0.9253050793133187
+    F1 Score: 0.9413628500897513
+    Precision: 0.9581266571398465
+    Recall: 0.927570021732507
+    Standard Deviation of Accuracy: 0.04004272484198151
+    Standard Deviation of F1 Score: 0.03194346971725408
+    Standard Deviation of Precision: 0.03894548784965481
+    Standard Deviation of Recall: 0.05131422777104832
+  Video: /mnt/newdrive/sir_video/driving_5
+    Accuracy: 0.9285970717042705
+    F1 Score: 0.8374464529393658
+    Precision: 0.8550011178981185
+    Recall: 0.8392283239528939
+    Standard Deviation of Accuracy: 0.04229256473553692
+    Standard Deviation of F1 Score: 0.20922083797571928
+    Standard Deviation of Precision: 0.2163138827819777
+    Standard Deviation of Recall: 0.22575269530445305
+  Video: /mnt/newdrive/sir_video/driving_1
+    Accuracy: 0.8650281118070954
+    F1 Score: 0.8438817036619645
+    Precision: 0.82191039855212
+    Recall: 0.8906179290330732
+    Standard Deviation of Accuracy: 0.0837154714404135
+    Standard Deviation of F1 Score: 0.12240523346281312
+    Standard Deviation of Precision: 0.16382281021447678
+    Standard Deviation of Recall: 0.10311153813287556
+  Video: /mnt/newdrive/sir_video/driving_2
+    Accuracy: 0.9056394340020439
+    F1 Score: 0.9304021255395196
+    Precision: 0.951841912280178
+    Recall: 0.9128328194419786
+    Standard Deviation of Accuracy: 0.0423986864340344
+    Standard Deviation of F1 Score: 0.03335307644109066
+    Standard Deviation of Precision: 0.04328521782961915
+    Standard Deviation of Recall: 0.05426967735908835
+  Video: /mnt/newdrive/sir_video/driving_3
+    Accuracy: 0.8620882719450617
+    F1 Score: 0.8711180013329287
+    Precision: 0.9898996059962311
+    Recall: 0.7854855149103891
+    Standard Deviation of Accuracy: 0.06221504930850437
+    Standard Deviation of F1 Score: 0.07316917052440329
+    Standard Deviation of Precision: 0.019751493957259596
+    Standard Deviation of Recall: 0.10988731358895175
+  Video: /mnt/newdrive/sir_video/driving_4
+    Accuracy: 0.9445659157704213
+    F1 Score: 0.7973535844570222
+    Precision: 0.8262337683248407
+    Recall: 0.7973083234835973
+    Standard Deviation of Accuracy: 0.04904875173787111
+    Standard Deviation of F1 Score: 0.2820758890928645
+    Standard Deviation of Precision: 0.28789364792860145
+    Standard Deviation of Recall: 0.2948127741672635
+  Video: /mnt/newdrive/sir_video/driving_6
+    Accuracy: 0.8718347384554651
+    F1 Score: 0.9059889489890952
+    Precision: 0.971479901019343
+    Recall: 0.8519590944040756
+    Standard Deviation of Accuracy: 0.0542146541717022
+    Standard Deviation of F1 Score: 0.042571072245686944
+    Standard Deviation of Precision: 0.028177700017765078
+    Standard Deviation of Recall: 0.07096439473613605
+  Video: /mnt/newdrive/sir_video/driving_10
+    Accuracy: 0.8517687290179478
+    F1 Score: 0.8860790101169311
+    Precision: 0.9281411320102211
+    Recall: 0.853779027488293
+    Standard Deviation of Accuracy: 0.06095248967559712
+    Standard Deviation of F1 Score: 0.052985451148832706
+    Standard Deviation of Precision: 0.056101022310501895
+    Standard Deviation of Recall: 0.08546514134413423
+  Video: /mnt/newdrive/sir_video/driving_8
+    Accuracy: 0.8999040339017191
+    F1 Score: 0.9197926364115729
+    Precision: 0.9308335894532095
+    Recall: 0.9138291415944128
+    Standard Deviation of Accuracy: 0.04702040755604997
+    Standard Deviation of F1 Score: 0.041965289290453504
+    Standard Deviation of Precision: 0.051503696812225074
+    Standard Deviation of Recall: 0.06924594006142616
+  Video: /mnt/newdrive/sir_video/driving_9
+    Accuracy: 0.9053833622645766
+    F1 Score: 0.9359751664958589
+    Precision: 0.9609103567109317
+    Recall: 0.9150075554782082
+    Standard Deviation of Accuracy: 0.03751356198135625
+    Standard Deviation of F1 Score: 0.027226019264072244
+    Standard Deviation of Precision: 0.034857441685523294
+    Standard Deviation of Recall: 0.051379699664534026
+  Video: /mnt/newdrive/sir_video/driving_11
+    Accuracy: 0.8657673349115375
+    F1 Score: 0.9036673422511686
+    Precision: 0.9255926985045011
+    Recall: 0.8878877070821062
+    Standard Deviation of Accuracy: 0.04908725281491267
+    Standard Deviation of F1 Score: 0.04128034040787425
+    Standard Deviation of Precision: 0.05029246633641054
+    Standard Deviation of Recall: 0.07021110141290898
+  Video: /mnt/newdrive/sir_video/driving_12
+    Accuracy: 0.8790733319475578
+    F1 Score: 0.9239490257037013
+    Precision: 0.9846930403047188
+    Recall: 0.8723934031371922
+    Standard Deviation of Accuracy: 0.04898542413677622
+    Standard Deviation of F1 Score: 0.034984727645146874
+    Standard Deviation of Precision: 0.015722175452457514
+    Standard Deviation of Recall: 0.05951223884936789
+  Video: /mnt/newdrive/sir_video/driving_13
+    Accuracy: 0.8956849722093335
+    F1 Score: 0.9241639307919096
+    Precision: 0.9591641745103193
+    Recall: 0.8965052208210379
+    Standard Deviation of Accuracy: 0.04239585881447298
+    Standard Deviation of F1 Score: 0.04848134220177657
+    Standard Deviation of Precision: 0.03392989480638472
+    Standard Deviation of Recall: 0.07670748732209398
+  Video: /mnt/newdrive/sir_video/driving_14
+    Accuracy: 0.8707478998376659
+    F1 Score: 0.9129646570760125
+    Precision: 0.9744329919383904
+    Recall: 0.8625414342573293
+    Standard Deviation of Accuracy: 0.052955032766950405
+    Standard Deviation of F1 Score: 0.03764878347923258
+    Standard Deviation of Precision: 0.027480753596221385
+    Standard Deviation of Recall: 0.06956065351311229
+

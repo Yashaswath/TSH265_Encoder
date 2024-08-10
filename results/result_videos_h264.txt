@@ -1,0 +1,49 @@
+Mean Metrics:
+Accuracy: [0.81191529]
+F1 Score: [0.84357911]
+Precision: [0.88639318]
+Recall: [0.81012765]
+Standard Deviation of Accuracy: [0.01937975]
+Standard Deviation of F1 Score: [0.02117034]
+Standard Deviation of Precision: [0.01118666]
+Standard Deviation of Recall: [0.03065248]
+
+Detailed Metrics:
+Folder: h264
+  Video: /mnt/newdrive/sir_video/shubham/h264/Night1_5min
+    Accuracy: 0.7861278303720228
+    F1 Score: 0.8198398431369238
+    Precision: 0.8832500332717418
+    Recall: 0.7705760364298654
+    Standard Deviation of Accuracy: 0.0574556140210089
+    Standard Deviation of F1 Score: 0.06331262246529308
+    Standard Deviation of Precision: 0.06389255583674697
+    Standard Deviation of Recall: 0.08626165084111316
+  Video: /mnt/newdrive/sir_video/shubham/h264/Night2_5min
+    Accuracy: 0.8033743993234609
+    F1 Score: 0.8295425399660159
+    Precision: 0.8699569828731162
+    Recall: 0.7974611960160221
+    Standard Deviation of Accuracy: 0.05427046713063325
+    Standard Deviation of F1 Score: 0.062079122908365474
+    Standard Deviation of Precision: 0.06608429657234899
+    Standard Deviation of Recall: 0.08118065523067519
+  Video: /mnt/newdrive/sir_video/shubham/h264/Day2_5min_
+    Accuracy: 0.8384373881257567
+    F1 Score: 0.8498446647675375
+    Precision: 0.892384059411308
+    Recall: 0.8179314118457053
+    Standard Deviation of Accuracy: 0.052927231307691995
+    Standard Deviation of F1 Score: 0.07181899607260475
+    Standard Deviation of Precision: 0.07344864429961655
+    Standard Deviation of Recall: 0.09313070541527045
+  Video: /mnt/newdrive/sir_video/shubham/h264/Day3_5min_
+    Accuracy: 0.8197215443216457
+    F1 Score: 0.8750893807409904
+    Precision: 0.8999816561329783
+    Recall: 0.8545419641202988
+    Standard Deviation of Accuracy: 0.05395706461216696
+    Standard Deviation of F1 Score: 0.046864388944288876
+    Standard Deviation of Precision: 0.048542075417972966
+    Standard Deviation of Recall: 0.06550465355976427
+
