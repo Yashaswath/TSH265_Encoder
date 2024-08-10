@@ -31,26 +31,21 @@ def compress_videos_in_directory(directory_path, qps,fps):
             except subprocess.CalledProcessError as e:
                 print(f"Failed to process {video_file} with qp={qp}. Error: {e}")
     for video_file in video_files:
-        pngs_folder=video_file.replace('.mp4','')
+        pngs_folder=os.path.join(directory_path, video_file.replace('.mp4',''))
         os.system(f'mkdir {pngs_folder}')
-        os.system(f'ffmpeg -i {video_file} -start_number 0 {pngs_folder}/%010d.png')
+        os.system(f'ffmpeg -i {os.path.join(directory_path,video_file)} -start_number 0 {pngs_folder}/%010d.png')
 
 if __name__ == "__main__":
     # Set up argument parser
     parser = argparse.ArgumentParser(description="Compress videos in a directory using specified QP values.")
     parser.add_argument("directory_path", type=str, help="The path to the directory containing video files.")
-    parser.add_argument(
-        "--qps",
-        type=int,
-        nargs='+',
-        default=[30, 40],
-        help="List of QP values to use for compression (default: [30, 40])."
-    )
+    parser.add_argument('--low_qp', type=int, default=30, help='Lower Value of QP (default: 30)')
+    parser.add_argument('--high_qp', type=int, default=40, help='Higher Value of QP (default: 40)')
     parser.add_argument("--input_fps", type=str,default="30", help="The path to the directory containing video files.")
 
     # Parse arguments
     args = parser.parse_args()
-
+    qps=[args.low_qp,args.high_qp]
     # Call the function with the parsed arguments
-    compress_videos_in_directory(args.directory_path, args.qps,args.input_fps)
+    compress_videos_in_directory(args.directory_path, qps,args.input_fps)
 

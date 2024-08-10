@@ -67,11 +67,11 @@ for conv, bound, base, v in product(conv_list, bound_list, base_list, v_list):
     if not os.path.exists(output):
         compress_command = (
             f"python h265_compress_blackgen_roi.py -i {v}_qp_{high}.mp4 "
-            f"{v}_qp_{base}.mp4 -s {v} -o {output} --tile_size {tile}  -p maskgen_pths/{model_name}.pth.best "
-            f"--conv_size {conv} "
-            f"-g {v}_qp_{high}.mp4 --bound {bound} --hq {high} --lq {base} --smooth_frames 10 --app {app_name} "
-            f"--maskgen_file maskgen/{filename}.py --visualize_step_size {visualize_step_size}",
-            f"--input_res {args.input_res}"
+            f"{v}_qp_{str(base)}.mp4 -s {v} -o {output} --tile_size {str(tile)}  -p maskgen_pths/{model_name}.pth.best "
+            f"--conv_size {str(conv)} "
+            f"-g {v}_qp_{str(high)}.mp4 --bound {str(bound)} --hq {str(high)} --lq {str(base)} --smooth_frames 10 --app {app_name} "
+            f"--maskgen_file maskgen/{filename}.py --visualize_step_size {str(visualize_step_size)} "
+            f"--input_res {str(args.input_res)}"
         )
         run_shell_command(compress_command)
 

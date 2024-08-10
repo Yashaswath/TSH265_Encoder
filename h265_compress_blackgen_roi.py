@@ -13,11 +13,12 @@ from torch.utils.tensorboard import SummaryWriter
 from torchvision import io
 from tqdm import tqdm
 
-from AccMPEG.dnn.dnn_factory import DNN_Factory
-from AccMPEG.utilities.mask_utils import *
-from AccMPEG.utilities.timer import Timer
-from AccMPEG.utilities.video_utils import get_qp_from_name, read_videos
-from AccMPEG.utilities.visualize_utils import (
+
+from dnn.dnn_factory import DNN_Factory
+from utilities.mask_utils import *
+from utilities.timer import Timer
+from utilities.video_utils import get_qp_from_name, read_videos
+from utilities.visualize_utils import (
     visualize_dist_by_summarywriter,
     visualize_heat_by_summarywriter,
 )
